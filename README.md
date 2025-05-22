@@ -1,3 +1,6 @@
-# CodSoft Web Development Internship – Level 1
+# web development
 
-A collection of beginner-level web projects completed during the CodSoft Internship. Includes a personal portfolio, landing page, and basic calculator built using HTML, CSS, and JavaScript.
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Aldam-Jeffron/pen/JoorWJp](https://codepen.io/Aldam-Jeffron/pen/JoorWJp).
+
